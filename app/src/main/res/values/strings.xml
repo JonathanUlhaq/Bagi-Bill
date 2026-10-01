@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BagiBill</string>
+    <string name="bill_per_person">PATUNGAN PER ORANG</string>
+    <string name="rp_currency">Rp</string>
+    <string name="subtotal_form_label"><![CDATA[Subtotal Makanan & Minuman]]></string>
+    <string name="input_subtotal_label"><![CDATA[Masukkan subtotal minuman & makanan]]></string>
+    <string name="people_sum">Jumlah Orang</string>
+</resources>
